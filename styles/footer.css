@@ -1,0 +1,190 @@
+#contact {
+    font-size: 92.3%;
+    line-height: 1.3em;
+    padding-top: 25px;
+}
+#contact p {
+    border-top: 1px solid #FFFFFF;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    padding: 1em 3px;
+}
+#contact img#footer_accessibility_icon {
+    margin-bottom: -7px;
+}
+.footermessage p {
+    font-size: 75%;
+    margin-bottom: 20px;
+    margin-top: 35px;
+}
+#footer-border {
+    border-bottom: 1px solid #666666;
+    border-top: 4px solid #CCCCCC;
+    margin: 0;
+}
+#footer {
+    color: #FFFFFF;
+    max-height: 331px;
+    position: relative;
+}
+#footer .container {
+    background: url("../images/footer.png") no-repeat scroll center top transparent;
+    padding: 0 125px;
+    position: relative;
+}
+#footer .container.banner-padded {
+    padding-bottom: 55px;
+}
+#footer-color-left {
+    background-color: #511A22;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 50%;
+}
+#footer-color-right {
+    background-color: #5C1D26;
+    bottom: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 50%;
+}
+#footer-top {
+    clear: both;
+    padding: 25px 0 0;
+    position: relative;
+    white-space: nowrap;
+}
+#footer-top div {
+    float: left;
+}
+#footer-top div + div {
+    float: right;
+}
+#footer-top div p {
+    margin: 0;
+}
+#footer-top img {
+    vertical-align: middle;
+}
+#footer-top div.block-search {
+    float: left;
+    width: 329px;
+}
+#footer div.block-menu {
+    float: right;
+    padding: 0;
+}
+#footer ul.menu {
+    margin: 0;
+    padding: 0;
+}
+#footer ul.menu li {
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+#footer ul.menu li a {
+    font-size: 92.3%;
+}
+#footer-bottom {
+    margin-top: 25px;
+}
+#footer ul.menu li.expanded {
+    border-top: 1px solid #FFFFFF;
+    display: block;
+    float: left;
+    font-weight: bold;
+    margin-bottom: 1em;
+    margin-right: 20px;
+    min-height: 100px;
+    padding-top: 0.75em;
+    white-space: nowrap;
+    width: 152px;
+}
+#footer ul.menu li.expanded.last {
+    margin-right: 0;
+}
+#footer ul.menu li ul {
+    margin-top: 1em;
+}
+#footer ul.menu li.leaf {
+    font-weight: normal;
+}
+.secondarylinks li + li {
+    border-left: 1px solid #AAAAAA;
+    padding-left: 10px;
+}
+#search-block-form label, #search-block-form input.form-submit, #footer #block-search-0 > h3 {
+    display: none;
+}
+#footer form#search-block-form input.form-text {
+    background: url("../images/searchbar.png") no-repeat scroll 0 0 transparent;
+    border: 0 none;
+    color: #999999;
+    font-size: 100%;
+    font-weight: bold;
+    height: 23px;
+    line-height: 23px;
+    margin: 0;
+    padding: 5px 8px;
+    width: 313px;
+}
+#footer form#search-block-form div.form-item {
+    margin: 0;
+}
+#footer form#search-block-form input.form-text.focused {
+    color: #000000;
+    font-weight: normal;
+}
+#footer a, #footer a:hover, #footer a:active, #footer a.visited {
+    color: #FFFFFF;
+}
+#footer ul.tabs a, #footer .block-edit-link a {
+    color: #000000;
+}
+.footer {
+    margin-top: 30px;
+}
+div.teaser {
+    border: 1px solid #EEEEEE;
+    font-size: 90%;
+    margin: 10px;
+    padding: 10px;
+}
+div.sticky {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border: 1px solid #DDDDDD;
+}
+div.sticky h2 {
+    display: none;
+}
+input.error {
+    margin: 0;
+    padding: 0;
+}
+#footer_copyright {
+    background: url("../images/shadow.png") repeat-x scroll 0 0 transparent;
+}
+#footer_copyright div {
+    color: #666666;
+    margin: 0 auto;
+    width: 950px;
+}
+#footer_copyright p {
+    color: #666666;
+    float: left;
+    margin: 3px 1em 3px 0;
+}
+#small-banner-2 {
+    background: url("../images/banner_small.png") no-repeat scroll 0 0 transparent;
+    bottom: -2px;
+    display: block;
+    height: 57px;
+    position: absolute;
+    right: -6px;
+    text-decoration: none;
+    width: 96px;
+}

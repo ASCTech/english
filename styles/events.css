@@ -1,0 +1,211 @@
+#sidebar-right .view-header {
+    margin-bottom: 30px;
+}
+#sidebar-right .calendar-calendar .year-view td {
+    border: 0 none;
+    padding: 0;
+}
+#sidebar-right .calendar-calendar .date-nav {
+    background-color: #56534B;
+    border: 0 none;
+    font-family: "Arial Black",Gadget,sans-serif;
+    font-size: 184.6%;
+    line-height: 1.25em;
+    padding: 0;
+}
+#sidebar-right .calendar-calendar .date-nav a {
+    color: #FFFFFF;
+    display: block;
+    text-transform: uppercase;
+}
+#sidebar-right .calendar-calendar .date-nav .date-prev a, #sidebar-right .calendar-calendar .date-nav .date-next a {
+    font-size: 1px;
+    overflow: hidden;
+    text-align: left;
+    text-decoration: none;
+    text-indent: -10px;
+}
+#sidebar-right .calendar-calendar .date-nav .date-prev a {
+    background: url("../images/arrow-l.png") no-repeat scroll 50% 50% transparent;
+}
+#sidebar-right .calendar-calendar .date-nav .date-next a {
+    background: url("../images/arrow-r.png") no-repeat scroll 50% 50% transparent;
+}
+#sidebar-right .calendar-calendar table.mini thead th {
+    background-color: #AFA9A0;
+    border: 0 none;
+    color: #FFFFFF;
+    font-size: 123.1%;
+    font-weight: normal;
+    line-height: 1.25em;
+    padding: 0;
+}
+#sidebar-right .calendar-calendar table.mini table.mini a {
+    color: #990000;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+#sidebar-right .calendar-calendar > .month-view table.mini tbody td {
+    border: 1px solid #EBEAE7;
+    color: #666666;
+    font-size: 123.1%;
+    line-height: 1.56em;
+    padding: 0;
+}
+#sidebar-right .calendar-calendar table.mini td.today {
+    background-color: #F2F1F0;
+}
+#sidebar-right .calendar-calendar table.mini tbody td.has-no-events a {
+    color: #666666;
+}
+#sidebar-right .calendar-calendar table.mini td.has-events:hover {
+    background-color: #EBEAE7;
+}
+#sidebar-right .calendar-calendar table.mini td.active {
+    background-color: #E4E2DF;
+}
+body.page-events #leftcontent .view-id-Events tr {
+    background: none repeat scroll 0 0 transparent;
+}
+body.page-events #leftcontent .view-id-Events th, body.page-events #leftcontent .view-id-Events td {
+    border-bottom: 1px solid #CCCCCC;
+    vertical-align: top;
+}
+body.page-events #leftcontent .view-id-Events th {
+    font-size: 107.7%;
+    font-weight: normal;
+}
+body.page-events #leftcontent .view-id-Events td {
+    font-size: 92.3%;
+    padding: 5px 5px 5px 0;
+}
+body.page-events #leftcontent .view-id-Events td.views-field-field-ascevents-image-fid img {
+    border: 2px solid #999999;
+    margin-right: 10px;
+}
+body.page-events #leftcontent .view-id-Events td.views-field-title {
+    font-weight: bold;
+}
+body.node-type-qs-events #title + div {
+    border-top: 1px solid #CCCCCC;
+    padding-top: 15px;
+}
+body.node-type-qs-events #leftcontent > .content {
+    border-bottom: 1px solid #CCCCCC;
+}
+body.node-type-qs-events #leftcontent > .content:after {
+    clear: both;
+    content: " ";
+    display: block;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+}
+body.node-type-qs-events .field-field-ascevents-image img {
+    float: left;
+    margin: 0 15px 10px 0;
+}
+body.node-type-qs-events .field-title {
+    font-size: 107.7%;
+    font-weight: bold;
+}
+body.node-type-qs-events .field-field-ascevents-date, body.node-type-qs-events .field-field-ascevents-location {
+    color: #333333;
+    font-size: 84.6%;
+}
+body.node-type-qs-events div.field + p {
+    margin-top: 2em;
+}
+.feature.view-id-Events .view-header a {
+    background: url("../images/features-title-events.png") no-repeat scroll right bottom transparent;
+}
+.feature.view-id-Events .views-field-field-ascevents-date-value2 {
+    float: left;
+    margin: 0 5px 5px 0;
+}
+.feature.view-id-Events .views-row {
+    float: left;
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    position: relative;
+}
+.feature.view-id-Events .views-row-last {
+    border-bottom: 0 none;
+}
+.feature.view-id-Events .views-row .views-field-title, .feature.view-id-Events .views-row .views-field-field-ascevents-date-value2-1, .feature.view-id-Events .views-row .views-field-field-ascevents-location-value {
+    float: left;
+    line-height: 1.3em;
+    width: 155px;
+}
+.feature.view-id-Events .views-row .views-field-field-ascevents-location-value {
+    border-bottom: 1px dotted #CCCCCC;
+    padding-bottom: 3px;
+}
+.feature.view-id-Events .views-row .views-field-view-node a {
+    bottom: 5px;
+    display: block;
+    height: 12px;
+    position: absolute;
+    right: 0;
+    width: 15px;
+}
+.calendarLink {
+    background: url("../images/calendar.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    font-size: 1px;
+    height: 35px;
+    overflow: hidden;
+    text-align: left;
+    text-indent: -100px;
+    width: 48px;
+}
+.feature.view-id-Events .view-footer {
+    bottom: 0;
+    font-size: 107.7%;
+    position: absolute;
+    right: 10px;
+    text-align: right;
+}
+.feature-large.view-id-Events .view-content {
+    padding-right: 179px;
+    width: 280px;
+}
+.feature-large.view-id-Events .attachment .view-content {
+    border: 0 none;
+    float: left;
+    padding: 20px 0 0;
+}
+.feature-large.view-id-Events .attachment, .feature-large.view-id-Events .attachment .view-content {
+    width: 179px;
+}
+.feature-large.view-id-Events .attachment {
+    position: absolute;
+    right: 0;
+    top: 37px;
+}
+.feature-large.view-id-Events .views-row .views-field-title, .feature-large.view-id-Events .views-row .views-field-field-ascevents-date-value2-1 {
+    float: none;
+}
+.feature-large.view-id-Events .views-row {
+    border: 0 none;
+    float: left;
+    margin-bottom: 5px;
+    margin-right: 15px;
+    width: 125px;
+}
+.feature-large.view-id-Events .attachment .views-row {
+    border-bottom: 1px dotted #CCCCCC;
+    margin-right: 10px;
+    width: 168px;
+}
+.feature-large.view-id-Events .attachment .views-row-last {
+    border-bottom: 0 none;
+}
+.feature-large.view-id-Events .views-field-field-ascevents-image-fid img {
+    border: 2px solid #999999;
+    margin-bottom: 5px;
+}
+.feature-large.view-id-Events .views-row .views-field-title {
+    width: auto;
+}

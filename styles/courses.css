@@ -1,0 +1,21 @@
+/* Features */
+
+.feature.view-id-Courses .view-header a {
+  background: url(../images/features-title-courses.png) no-repeat right bottom;
+}
+
+.feature.view-id-Courses .view-content {
+  padding: 20px 0px 0px;
+}
+
+.feature.view-id-Courses .view-content .course-description {
+  height: 210px;
+  padding: 20px 20px 0px;
+  background-color: #E9E7E4;
+  line-height: 1.16em;
+}
+
+.feature.view-id-Courses .view-content .course-description .course {
+  font-weight: bold;
+  text-transform: uppercase;
+}

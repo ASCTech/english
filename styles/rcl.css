@@ -1,0 +1,89 @@
+/* Rhetoric Composition Library */
+
+body.page-library #sidebar-right-filler {
+	background-color: transparent;
+}
+
+body.page-library #sidebar-right-filler #leftcontent {
+	width: 950px;
+}
+
+body.page-library #sidebar-right-filler #sidebar-right {
+	width: 0px;
+	height: 0px;
+	display: none;
+}
+
+body.page-library #leftcontent {
+	clear: both;
+	border-bottom: 2px solid #999999;
+	padding-bottom: 0px;
+	margin-bottom: 25px;
+}
+
+body.page-library #library-sort {
+	position: absolute;
+	left: 220px;
+	top: 75px;
+}
+
+body.page-library #library-sort a {
+	color: #000000;
+}
+
+body.page-library #library-sort a.active {
+	color: #990000;
+}
+
+body.page-library .view-rcl-library .view-header {
+	font-size: 115.38%;
+	font-weight: bold;
+	margin-bottom: .25em;
+}
+
+body.page-library .view-rcl-library .view-content .views-row {
+	border-top: 3px solid #999999;
+	clear: both;
+}
+
+body.page-library .view-rcl-library .view-content .views-row .column-left {
+	margin: 5px 0px;
+	float: left;
+	width: 60%;
+	padding-right: 40%;
+	margin-right: -40%;
+}
+
+body.page-library .view-rcl-library .view-content .views-row .column-left .views-field,
+body.page-library .view-rcl-library .view-content .views-row .column-right .views-field {
+	white-space: nowrap;
+}
+
+body.page-library .view-rcl-library .view-content .views-row .column-left .views-field {
+	padding-right: 67%;
+	margin-right: -67%;
+	border-top: 1px dotted #CCCCCC;
+}
+
+body.page-library .view-rcl-library .view-content .views-row .column-left .views-field-field-rcl-author-value {
+	padding-right: 67%;
+	margin-right: -67%;
+	border-top: none;
+	font-weight: bold;
+	border-bottom: 1px dotted #CCCCCC;
+}
+
+body.page-library .view-rcl-library .view-content .views-row .column-left .views-field-title {
+	border-top: none;
+	font-style: italic;
+}
+
+body.page-library .view-rcl-library .view-content .views-row .column-right {
+	margin: 5px 0px;
+	float: left;
+	width: 40%;
+}
+
+body.page-library .view-rcl-library .view-content .views-row .column-right .views-field {
+	padding-bottom: 1px;
+}

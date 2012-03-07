@@ -26,7 +26,7 @@ if(!($front_image || $front_text || $front_links)){
 </head>
 <body class="<?php print $body_classes; ?>">
 
-  <?php require_once("sites/all/files/navbar/osu-navbar-b-custom.php"); ?>
+  <?php require_once("navbar/osu-navbar-b-custom.php"); ?>
 
   <div id="header">
     <div class="container">

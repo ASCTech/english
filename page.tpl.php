@@ -80,7 +80,7 @@ if(!($front_image || $front_text || $front_links)){
   <div id="footer_copyright" class="clearfix">
     <div class="small">
       <p>&copy; <?php print date("Y"); ?>, The Ohio State University, College of Arts and Sciences</p>
-      <?php include("sites/all/files/icons/uicons_basic.php"); ?>
+      <?php include("icons/uicons_basic.php"); ?>
     </div>
   </div>
 

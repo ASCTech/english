@@ -22,6 +22,7 @@ stylesheets[screen][] = styles/front.css
 stylesheets[all][] = styles/navbar.css
 stylesheets[print][] = styles/print.css
 stylesheets[print][] = styles/override.css
+stylesheets[all][] = styles/blog.css
 
 regions[front_image] = Front Page - Image
 regions[front_secondary_image] = Front Page - Secondary Image

@@ -33,7 +33,7 @@
     position: relative;
 }
 #footer .container.banner-padded {
-    padding-bottom: 55px;
+    padding-bottom: 35px;
 }
 #footer-color-left {
     background-color: #511A22;
@@ -180,7 +180,7 @@ input.error {
 }
 #small-banner-2 {
     background: url("../images/banner_small.png") no-repeat scroll 0 0 transparent;
-    bottom: -2px;
+    bottom: -22px;
     display: block;
     height: 57px;
     position: absolute;

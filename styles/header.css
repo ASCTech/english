@@ -37,6 +37,9 @@
 	bottom: 50px;
 	position: absolute;
 }
+#osulogo{
+	bottom: 40px;
+}
 
 #logo {
 	float: left;
@@ -52,9 +55,9 @@
 
 #osulogo {
 	background: transparent url("../images/osulogo.png") no-repeat scroll 0 0;
-	height: 86px;
+	height: 117px;
 	right: 0;
-	width: 84px;
+	width: 167px;
 }
 
 #osulogo a:hover {
